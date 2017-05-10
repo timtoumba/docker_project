@@ -1,9 +1,7 @@
 # docker_project
 
-A quick tutorial providing a all-in-one solution to start a raw project with Docker
-
-The example uses an ubuntu image
-
+A quick tutorial providing a all-in-one solution to start a raw project with Docker.
+The example uses an ubuntu image.
 
 ## Quick Start ##
 
@@ -12,8 +10,8 @@ First we need to build the container using
 docker build -i image_name .
 
 ```
-> Depending on how you docker is configured you might need to use the command "sudo"
-> You are free to choose the image_name
+*Depending on how you docker is configured you might need to use the command "sudo"<br>
+You are free to choose the image_name*
 
 
 ### Run bash ###
