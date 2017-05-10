@@ -7,7 +7,7 @@ The example uses an ubuntu image.
 
 First we need to build the container using
 ```bash
-docker build -i image_name .
+docker build -t image_name .
 
 ```
 *Depending on how you docker is configured you might need to use the command "sudo"<br>
