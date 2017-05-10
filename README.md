@@ -1,4 +1,4 @@
-# docker_project
+# Docker Project
 
 A quick tutorial providing a all-in-one solution to start a raw project with Docker.
 The example uses an ubuntu image.
